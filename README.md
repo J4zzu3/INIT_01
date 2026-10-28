@@ -18,12 +18,7 @@ Armando el INIT_01 Hacking wifi - Spam Bluethoot - Evil Portal
 - [Objetivos](#-objetivos)
 - [Hardware utilizado](#-hardware-utilizado)
 - [Herramientas y tecnologías](#-herramientas-y-tecnologías)
-- [Arquitectura del laboratorio](#-arquitectura-del-laboratorio)
 - [Configuración](#-configuración)
-- [Procedimiento de pruebas](#-procedimiento-de-pruebas)
-- [Resultados y evidencias](#-resultados-y-evidencias)
-- [Aprendizajes](#-aprendizajes)
-- [Seguridad y ética](#-seguridad-y-ética)
 - [Referencias](#-referencias)
 
 ---
@@ -32,39 +27,33 @@ Armando el INIT_01 Hacking wifi - Spam Bluethoot - Evil Portal
 
 Este proyecto documenta mi proceso de aprendizaje en Hardware Hacking
 y seguridad de dispositivos electrónicos.
+.
 
-Se registran los componentes utilizados, las herramientas de análisis,
-la configuración del laboratorio, las pruebas realizadas y los resultados obtenidos.
-
-**Tipo de proyecto:** Laboratorio de aprendizaje  
+**Tipo de proyecto:** Hardware Hacking 
 **Área:** Hardware Security / Hardware Hacking  
-**Autor:** [Tu usuario de GitHub]  
-**Estado:** En desarrollo
+**Autor:** J4zzu3  
+**Estado:** Complado!!!!!! xD
 
 ---
 
 ## 🎯 Objetivos
 
-- Comprender los fundamentos de la seguridad del hardware.
 - Identificar interfaces físicas de comunicación.
 - Aprender a documentar componentes y conexiones.
-- Practicar el análisis técnico en un entorno controlado.
-- Registrar resultados, evidencias y conclusiones.
 - Desarrollar habilidades aplicables a la ciberseguridad.
+- Testear la seguridad en el protocolo 802.11
 
 ---
 
 ## 🧰 Hardware utilizado
 
-### 1. [Nombre del componente]
+### 1. [ESP32U
 
 ![Imagen del componente](assets/images/componente-01.jpg)
 
-- **Modelo:** [Modelo del dispositivo]
-- **Fabricante:** [Fabricante]
-- **Función:** [Para qué se utiliza]
-- **Características:** [Especificaciones relevantes]
-- **Observaciones:** [Notas técnicas]
+- **Modelo:** [ESP32 wroom U]
+- **Fabricante:** [ESPRESIF]
+- **Comprar:** [https://es.aliexpress.com/item/1005009273605547.html?spm=a2g0o.productlist.main.11.98f644c8p5YG43&aem_p4p_detail=2026102807362210440320944684610000632633&algo_pvid=48522129-57a8-48b7-a13e-a2310d21893a&algo_exp_id=48522129-57a8-48b7-a13e-a2310d21893a-13&pdp_ext_f=%7B%22order%22%3A%22550%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PEN%216.35%213.88%21%21%2111.87%217.25%21%402101dedf17931981825031020e0d57%2112000059389631732%21sea%21PE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad8f806e3%3Bm03_new_user%3A-29895%3BpisId%3A5000000219362557&curPageLogUid=xOYlCMgUnhyC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009273605547%7C_p_origin_prod%3A&search_p4p_id=2026102807362210440320944684610000632633_4 ]
 
 ### 2. [Nombre del adaptador o placa]
 
